@@ -32,4 +32,6 @@
 {5,31060d45-4a34-40c1-ad59-dcca98be2a4c,"Документ.ОказаниеУслуги",6},
 {5,9717cceb-f919-4d0f-860b-52b203b1f93d,"РегистрСведений.Цены",7},
 {4,"_$PerformError$_",14},
-{4,"_$Transaction$_.Rollback",15}
+{4,"_$Transaction$_.Rollback",15},
+{2,"DESKTOP-1SJELAB",2},
+{13,2,1}
